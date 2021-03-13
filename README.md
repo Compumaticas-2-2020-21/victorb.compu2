@@ -1,8 +1,8 @@
 # victorb.compu2
 
-##subtitulo
+## subtitulo
 
 Trabajos de compumáticas 2
 
--prueba1
--prueba2
+- prueba1
+- prueba2
